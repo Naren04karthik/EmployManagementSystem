@@ -25,7 +25,4 @@ All data is stored in separate text files for each employee (`file<ID>.txt`).
 - I/O: **java.io.File, FileWriter, Scanner**
 - OOP Concepts: **Encapsulation, Class Abstraction**
 
----
-
-## 📁 Project Structure
 
